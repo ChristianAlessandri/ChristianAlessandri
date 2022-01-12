@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning everything
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to play guitar & piano
+- ⚡ Fun fact: I love to play piano & guitar
 
 <br/>
 
