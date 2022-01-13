@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Christian</h1>
+<h1 align="center">Hi, I'm Christian 👋</h1>
 <h3 align="center">I'm a Student, Amateur Developer & Amateur Designer!</h3>
 
 - 🌱 I’m currently learning **everything**
