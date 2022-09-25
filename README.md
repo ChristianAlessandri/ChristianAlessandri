@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://instagram.com/christian.alessandrii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="christian.alessandrii" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/christian-alessandri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="christianalessandri" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/christian-alessandri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="christianalessandri" height="30" width="40" /></a>
 <a href="https://codepen.io/christianalessandri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="christianalessandri" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18121382" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18121382" height="30" width="40" /></a>
 </p>
@@ -27,7 +27,9 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Languages</h3>
+
 - 🇮🇹 Native Language
+
 - 🇬🇧 Intermediate
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christianalessandri&show_icons=true&locale=en&layout=compact" alt="christianalessandri" /></p>
