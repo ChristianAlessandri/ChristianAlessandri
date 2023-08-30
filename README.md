@@ -11,7 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/christianalessandri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="christianalessandri" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/christian-alessandri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christian-alessandri" height="30" width="40" /></a>
 <a href="https://instagram.com/christian.alessandrii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="christian.alessandrii" height="30" width="40" /></a>
 </p>
