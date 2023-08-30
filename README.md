@@ -3,13 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christianalessandri" alt="christianalessandri" /></a> </p>
 
-- 🔭 I’m currently working on **a mobile react native app**
-
-- 🌱 I’m currently learning **databases**
+- 🔭 I am currently studying at the **University of Florence**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/christian-alessandri/](https://www.linkedin.com/in/christian-alessandri/)
 
-- ⚡ Fun fact **I love to play piano & guitar**
+- ⚡ View the rest of my projects on [https://codepen.io/christianalessandri](https://codepen.io/christianalessandri)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
