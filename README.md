@@ -30,6 +30,6 @@
   <a href="https://unity.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christianalessandri&show_icons=true&locale=en&layout=compact" alt="christianalessandri" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChristianAlessandri&show_icons=true&locale=en&layout=compact" alt="ChristianAlessandri" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christianalessandri&show_icons=true&locale=en" alt="christianalessandri" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChristianAlessandri&show_icons=true&locale=en" alt="ChristianAlessandri" /></p>
