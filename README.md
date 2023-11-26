@@ -31,5 +31,3 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChristianAlessandri&show_icons=true&locale=en&layout=compact" alt="ChristianAlessandri" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChristianAlessandri&show_icons=true&locale=en" alt="ChristianAlessandri" /></p>
