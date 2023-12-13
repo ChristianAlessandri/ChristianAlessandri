@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/christian-alessandri/)
 
-- 💻 See more of my projects on [YourVibes GitHub page](https://github.com/orgs/YourVibes/repositories).
+- 💻 See more of my projects on [YourVibes GitHub page](https://github.com/orgs/YourVibes/repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
