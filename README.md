@@ -20,13 +20,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <h4>Programming Languages</h4>
-  <img src="https://skillicons.dev/icons?i=c,cs,py,java" /><br>
+  <img src="https://skillicons.dev/icons?i=c,cs,py,java" />
   <h4>Frontend</h4>
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js" />
   <h4>Frameworks</h4>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
   <h4>Backend</h4>
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql" />
   <h4>Game engine</h4>
   <img src="https://skillicons.dev/icons?i=unity" />
   <h4>Graphic Tools</h4>
