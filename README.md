@@ -17,7 +17,7 @@
 <a href="https://instagram.com/christian.alessandrii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="christian.alessandrii" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <p align="left">
   <h4>Programming Languages</h4>
   <img src="https://skillicons.dev/icons?i=c,cs,py,java" />
