@@ -11,6 +11,8 @@
 
 - 💻 See more of my projects on [Yourvibes GitHub page](https://github.com/orgs/Yourvibes/repositories)
 
+- 🧮 See my minor projects on [Codepen](https://codepen.io/christianalessandri)
+
 <br />
 <h3 align="left">Connect with me</h3>
 <p align="left">
