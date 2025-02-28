@@ -65,7 +65,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ChristianAlessandri/ChristianAlessandri/output/snake.svg" alt="Snake animation" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChristianAlessandri/ChristianAlessandri/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChristianAlessandri/ChristianAlessandri/output/github-snake.svg" />
