@@ -1,7 +1,8 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ChristianAlessandri.ChristianAlessandri"/>
 
-<h1 align="center">Hi 👋, I'm Christian</h1>
-<h3 align="center"></h3>
+###
+
+# Hi 👋, I'm Christian
 
 - 🔭 I’m currently studying at the [University of Florence](https://www.informatica.unifi.it)
 
@@ -15,11 +16,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChristianAlessandri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
+## 💻 Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
@@ -47,6 +44,18 @@
 
 ###
 
+## 📊 GitHub Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChristianAlessandri&theme=dark&hide_border=false&include_all_commits=false&count_private=true" height="150" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ChristianAlessandri&theme=dark&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianAlessandri&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="150" />
+</div>
+
+###
+
+## 🌐 Socials
+
 <div align="left">
   <a href="mailto:chri.alessandri@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -55,3 +64,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=ChristianAlessandri&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
