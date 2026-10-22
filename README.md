@@ -51,7 +51,7 @@
   <img src="https://skillicons.dev/icons?i=c,cs,unity,java,dart,python,flutter,html,css,tailwind,js,ts,nextjs,latex,linux" alt="Tech Stack" />
 </p>
 
-### 🔧 Languages & Tools that I actually use
+### 🔧 Languages & Tools (that I actually use)
 
 ![Languages](metrics.plugin.languages.svg)
 
