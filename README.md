@@ -2,25 +2,25 @@
   Hey! <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bjlzdDNoZHRleXJycmtpYjl6Ymxrd21tcXk4bmlxaXNsejd5Zm9uaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/666WfyD7dz3ptSplJV/giphy.gif" alt="cat gif" width="40" /> I'm Christian
 </h1>
 
-### 📋 TL;DR
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Notebook.png" alt="Notebook" width="25" height="25" /> TL;DR
 
-- 🔭 Currently studying Computer Science at [University of Florence](https://www.informatica.unifi.it)
-- 📄 Explore my professional background on [LinkedIn](https://www.linkedin.com/in/christian-alessandri/)
-- 💻 Browse team & major projects on [Yourvibes](https://github.com/orgs/Yourvibes/repositories)
-- 🧮 Check out small experiments on [CodePen](https://codepen.io/christianalessandri)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /> Currently studying Computer Science at [University of Florence](https://www.informatica.unifi.it)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Notepad.png" alt="Spiral Notepad" width="25" height="25" /> Explore my professional background on [LinkedIn](https://www.linkedin.com/in/christian-alessandri/)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Browse team & major projects on [Yourvibes](https://github.com/orgs/Yourvibes/repositories)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" alt="Abacus" width="25" height="25" /> Check out small experiments on [CodePen](https://codepen.io/christianalessandri)
 
 ---
 
-### 🐈 Some (serious) facts about me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" alt="Cat" width="25" height="25" /> Some (serious) facts about me
 
-- I love cats (you can't tell) and sloths 🦥
-- Go-to emojis: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Flushed%20Face.png" alt="Flushed Face" width="20" height="20" />, <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20Holding%20Back%20Tears.png" alt="Face Holding Back Tears" width="20" height="20" />, <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Cookie.png" alt="Cookie" width="20" height="20" />
+- I love cats (you can't tell) and sloths <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Sloth.png" alt="Sloth" width="25" height="25" />
+- Go-to emojis: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Flushed%20Face.png" alt="Flushed Face" width="25" height="25" />, <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20Holding%20Back%20Tears.png" alt="Face Holding Back Tears" width="25" height="25" />, <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Cookie.png" alt="Cookie" width="25" height="25" />
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🛠️ I enjoy building:**
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> I enjoy building:**
 
 - Productivity apps & utilities
 - Video games
@@ -31,7 +31,7 @@
 </td>
 <td width="50%" valign="top">
 
-**🏂 Beyond the screen:**
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Snowboarder%20Dark%20Skin%20Tone.png" alt="Snowboarder Dark Skin Tone" width="25" height="25" /> Beyond the screen:**
 
 - Board sports (snowboarding, skate, surf, SUP)
 - Tinkering with hardware (ESP32, Arduino)
@@ -45,7 +45,7 @@
 
 ---
 
-### 🧰 Languages & Tools
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="25" height="25" /> Languages & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cs,unity,java,dart,python,flutter,html,css,tailwind,js,ts,nextjs,latex,linux" alt="Tech Stack" />
