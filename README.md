@@ -1,5 +1,5 @@
 <h1>
-  Hey! <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bjlzdDNoZHRleXJycmtpYjl6Ymxrd21tcXk4bmlxaXNsejd5Zm9uaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/666WfyD7dz3ptSplJV/giphy.gif" alt="cat gif" height="40" /> I'm Christian
+  Hey! <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bjlzdDNoZHRleXJycmtpYjl6Ymxrd21tcXk4bmlxaXNsejd5Zm9uaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/666WfyD7dz3ptSplJV/giphy.gif" alt="cat gif" width="40" /> I'm Christian
 </h1>
 
 ### 📋 TL;DR
@@ -14,7 +14,7 @@
 ### 🐈 Some (serious) facts about me
 
 - I love cats (you can't tell) and sloths 🦥
-- Go-to emojis: 🫪, 🥹, 🫠, 🍪
+- Go-to emojis: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Flushed%20Face.png" alt="Flushed Face" width="20" height="20" />, <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20Holding%20Back%20Tears.png" alt="Face Holding Back Tears" width="20" height="20" />, <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Cookie.png" alt="Cookie" width="20" height="20" />
 
 <table>
 <tr>
@@ -51,13 +51,13 @@
   <img src="https://skillicons.dev/icons?i=c,cs,unity,java,dart,python,flutter,html,css,tailwind,js,ts,nextjs,latex,linux" alt="Tech Stack" />
 </p>
 
-### 🔧 Languages & Tools (that I actually use)
+### <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c21mbzdiOGMwMWM3cTY4azB5amdnMGNheTRseTkxeDQzMHE3eW13ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5aYfJYohCSeYgtVlUj/giphy.gif" alt="cat gif" width="40" /> What I actually use
 
 ![Languages](metrics.plugin.languages.svg)
 
 ---
 
-### Let's talk! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHl3NGlkM2M0a2t0ZTg1ZmxzY3Y0ZG9oMW9pa2VvY2ZzNnp2aTU2ZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XUA7ZZcBl0McuVqwd8/giphy.gif" alt="cat gif" height="35" />
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHl3NGlkM2M0a2t0ZTg1ZmxzY3Y0ZG9oMW9pa2VvY2ZzNnp2aTU2ZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XUA7ZZcBl0McuVqwd8/giphy.gif" alt="cat gif" width="40" /> Let's talk!
 
 <p align="left">
   <a href="mailto:chri.alessandri@gmail.com" target="_blank">
@@ -67,12 +67,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="32" alt="LinkedIn" />
   </a>
 </p>
-
----
-
-### Achievements
-
-![Achievements](metrics.plugin.achievements.svg)
 
 ---
 
