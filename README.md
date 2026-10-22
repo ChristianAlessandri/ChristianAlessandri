@@ -51,6 +51,10 @@
   <img src="https://skillicons.dev/icons?i=c,cs,unity,java,dart,flutter,html,css,tailwind,js,nextjs" alt="Tech Stack" />
 </p>
 
+### 🧰 Languages & Tools that I actually use
+
+![Languages](metrics.plugin.languages.svg)
+
 ---
 
 ### Let's talk! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHl3NGlkM2M0a2t0ZTg1ZmxzY3Y0ZG9oMW9pa2VvY2ZzNnp2aTU2ZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XUA7ZZcBl0McuVqwd8/giphy.gif" alt="cat gif" height="35" />
@@ -66,4 +70,10 @@
 
 ---
 
-![Isometric Commit Calendar](./metrics.plugin.isocalendar.svg)
+### Achievements
+
+![Achievements](metrics.plugin.achievements.svg)
+
+---
+
+![Isometric Calendar](metrics.plugin.isocalendar.svg)
