@@ -48,7 +48,7 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="25" height="25" /> Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cs,unity,java,dart,python,flutter,html,css,tailwind,js,ts,nextjs,latex,linux" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,cs,unity,java,python,dart,flutter,html,css,tailwind,js,ts,nextjs,latex,linux" alt="Tech Stack" />
 </p>
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c21mbzdiOGMwMWM3cTY4azB5amdnMGNheTRseTkxeDQzMHE3eW13ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5aYfJYohCSeYgtVlUj/giphy.gif" alt="cat gif" width="40" /> What I actually use
