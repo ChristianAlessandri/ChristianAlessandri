@@ -1,52 +1,69 @@
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=christianalessandri&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F65250416%3Fu%3Daa54d2a7be5dc05f37b21c1c8300845436f9f898%26v%3D4" alt="christianalessandri hero visual" />
+<h1>
+  Hey! <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bjlzdDNoZHRleXJycmtpYjl6Ymxrd21tcXk4bmlxaXNsejd5Zm9uaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/666WfyD7dz3ptSplJV/giphy.gif" alt="cat gif" height="40" /> I'm Christian
+</h1>
+
+### 📋 TL;DR
+
+- 🔭 Currently studying Computer Science at [University of Florence](https://www.informatica.unifi.it)
+- 📄 Explore my professional background on [LinkedIn](https://www.linkedin.com/in/christian-alessandri/)
+- 💻 Browse team & major projects on [Yourvibes](https://github.com/orgs/Yourvibes/repositories)
+- 🧮 Check out small experiments on [CodePen](https://codepen.io/christianalessandri)
+
+---
+
+### 🐈 Some (serious) facts about me
+
+- I love cats (you can't tell) and sloths 🦥
+- Go-to emojis: 🫪, 🥹, 🫠, 🍪
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🛠️ I enjoy building:**
+
+- Productivity apps & utilities
+- Video games
+- Creative websites (frontend-focused)
+- Linux ricing & custom OS workflows
+- Random tools to improve desktop UX
+
+</td>
+<td width="50%" valign="top">
+
+**🏂 Beyond the screen:**
+
+- Board sports (snowboarding, skate, surf, SUP)
+- Tinkering with hardware (ESP32, Arduino)
+- Reading & LEGO sets
+- Music, gaming & retro-gaming
+- ...way too many other rabbit holes
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🧰 Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cs,unity,java,dart,flutter,html,css,tailwind,js,nextjs" alt="Tech Stack" />
 </p>
 
-- 🔭 I’m currently studying at the [University of Florence](https://www.informatica.unifi.it)
+---
 
-- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/christian-alessandri/)
+### Let's talk! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHl3NGlkM2M0a2t0ZTg1ZmxzY3Y0ZG9oMW9pa2VvY2ZzNnp2aTU2ZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XUA7ZZcBl0McuVqwd8/giphy.gif" alt="cat gif" height="35" />
 
-- 💻 See more of my projects on [Yourvibes GitHub page](https://github.com/orgs/Yourvibes/repositories)
-
-- 🧮 See my minor projects on [Codepen](https://codepen.io/christianalessandri)
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="cs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unity" height="60" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="60" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwind logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="js logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-</div>
-
-###
-
-<div align="center">
+<p align="left">
   <a href="mailto:chri.alessandri@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="32" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/christian-alessandri/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="32" alt="LinkedIn" />
   </a>
-</div>
+</p>
 
-###
+<br />
 
 ![Isometric Commit Calendar](./metrics.plugin.isocalendar.svg)
